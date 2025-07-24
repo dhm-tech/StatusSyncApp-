@@ -99,7 +99,7 @@ flutter run
 ---
 
 ## 📸 Project Preview
-
+![Preview](Preview.png)
 ---
 
 ## 👤 Author
