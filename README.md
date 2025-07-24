@@ -75,7 +75,7 @@ INSERT INTO device_status (status) VALUES (0);
 
 ## 🚀 How to Run the Project Locally
 
-#🧩 Backend (PHP + MySQL):
+# 🧩 Backend (PHP + MySQL):
 1. Install XAMPP
 2. Start Apache and MySQL
 3. Open phpMyAdmin
@@ -87,7 +87,7 @@ INSERT INTO device_status (status) VALUES (0);
 `http://localhost/StatusSyncApp/api/get_run_pose.php`
 `http://localhost/StatusSyncApp/api/update_status.php?status=1`
 
-#📱 Flutter App
+# 📱 Flutter App
 1. Open project in VSCode
 2. Run:
 ```bash
