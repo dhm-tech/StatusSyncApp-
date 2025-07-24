@@ -102,6 +102,6 @@ flutter run
 
 ---
 
-👤 Author
-Designed by: [Abdulrahman Qutah]
-Date: [24 Jul 2025]
+## 👤 Author
+> Designed by: [Abdulrahman Qutah]  
+> Date: [24 Jul 2025]
